@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Xin chao%20:))반갑습니다&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Xin chao%20:))반갑습니다&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
 
 
 
