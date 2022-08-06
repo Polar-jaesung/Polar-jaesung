@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Xin chao%20:))&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?height=400type=wave&color=auto&height=150&section=header&text=Xin chao%20:))&fontSize=70" />
+
 
 <div align="center">
   
