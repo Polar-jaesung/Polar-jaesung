@@ -17,7 +17,6 @@
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPolar-jaesung%2F&count_bg=%233767DA&title_bg=%23141313&icon=github.svg&icon_color=%23E7E7E7&title=Jaesung%27s+Github&edge_flat=false"/></a>
   
  
-
-  <br>
+<img src="https://www.codewars.com/users/Polar-jaesung/badges/small"/>
  
 </div>
