@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Im FE Programmer%20&fontSize=50&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Im FE%20Programmer&fontSize=50&fontColor=d6ace6" />
 
 
  
