@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=wave&height=120&section=header&text=Xin chao%20:))반갑습니다&fontColor=FFFFFF&fontSize=30&" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100" />
 
 
-
+ 
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polar-jaesung&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
